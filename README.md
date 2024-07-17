@@ -68,7 +68,7 @@ This system ensures efficient and secure management of employee data, providing 
 To run this project locally, follow these steps:
 
 1. Clone this repository.
-2. Install dependencies (if any).
+2. Install dependencies.
 3. Run the application.
 
 ## Contributing
